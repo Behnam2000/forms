@@ -2,12 +2,12 @@ from django.shortcuts import render , get_object_or_404 , redirect
 from django.urls import reverse
 from .models import Link
 from .forms import LinkForm
-from datetime import date 
+from datetime import datetime
 # Create your views here.
 
 def index(request):
     links = Link.objects.all()
-    current_date = date.today()
+    current_date = datetime.now()
     context = {
         "links" : links ,
         "current_date" : current_date
