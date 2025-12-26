@@ -15,11 +15,7 @@ class Link(models.Model):
     def __str__(self): 
         return f"{self.name} | {self.clicks} | {self.email}"
     
-<<<<<<< HEAD
-    
-=======
  
->>>>>>> style
     def click(self):
         self.clicks += 1 
         self.save() # save that row in the table (instance)
