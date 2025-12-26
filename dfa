@@ -1,0 +1,100 @@
+[33mcommit 34f09430d9ab1aa611e248c52603602788d60c41[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: ad68fc7 57479c8
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 17:17:07 2025 +0330
+
+    pycache
+
+[33mcommit ad68fc7a37ccb67ec5006f7d40eec70f39b85682[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 17:16:28 2025 +0330
+
+    pycache
+
+[33mcommit 57479c808a1f64d0330acd0d0c7889dff617812a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:43:35 2025 -0800
+
+    Clicks to blue
+
+[33mcommit e8efd13f8aeb5f8a7194cd0c2dae4a263d0e1a1f[m
+Merge: 865897d 21a012f
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:42:34 2025 -0800
+
+    db and pycache
+
+[33mcommit 865897d3bd4e4fcecb026166a26edb8a876344e9[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:40:35 2025 -0800
+
+    Clicks to gold
+
+[33mcommit 4e0cc9110a408ea94957be42192d1c12ee269ce5[m
+Merge: 66ad66b e0b6443
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:26:14 2025 -0800
+
+    ..
+
+[33mcommit 66ad66b1c39a5a6957f6d2db63312e2d02d9db02[m
+Merge: fc3d229 3bbe48a
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:25:32 2025 -0800
+
+    .
+
+[33mcommit fc3d229d73a77de1d25a0bc1b195e2f6759b82eb[m
+Merge: 3d7d22c f03fc3b
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:16:46 2025 -0800
+
+    fixing base.html conflict
+
+[33mcommit 3d7d22cabd340b358d4c417d68b3c4afd8b5464b[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 05:01:25 2025 -0800
+
+    restore to begening
+
+[33mcommit 21a012fe58db7ec16fd35f7a4d4f7a07a01c22aa[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 15:12:12 2025 +0330
+
+    .
+
+[33mcommit e0b6443415c0467e46ab15e50aaa98ca93692a5f[m[33m ([m[1;31morigin/datestyle[m[33m, [m[1;32mdatestyle[m[33m)[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 03:07:17 2025 +0330
+
+    add styling for date
+
+[33mcommit 3bbe48a012243e88adbded8929f729435efb1f7d[m[33m ([m[1;31morigin/features[m[33m)[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 02:49:45 2025 +0330
+
+    __pycache__ cpython
+
+[33mcommit 30c3767a295605e37131232207dae41765c5b2c9[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 02:48:28 2025 +0330
+
+    migrations
+
+[33mcommit f7c1ec978450e8763e6bb0ac0066e44d80f875a2[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 02:43:39 2025 +0330
+
+    adding date showing
+
+[33mcommit dcda6670c21663797a0f9293c71390fc3c1749bf[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 01:36:57 2025 +0330
+
+    added email field
+
+[33mcommit f03fc3b536876904ef2afbaffc71f40c655d4f40[m
+Author: Behnam2000 <safaribehnam6@gmail.com>
+Date:   Fri Dec 26 00:39:36 2025 +0330
+
+    add all codes
