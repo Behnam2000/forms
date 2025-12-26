@@ -7,13 +7,14 @@
     <div class="border rounded px-12 py-8 my-6 hover:bg-gray-50">
         <div class="flex justify-between items-center pb-6">
             <p class="text-2xl">{{link.name}}</p>
-            <p class="rounded-full bg-green-200 px-6 py-2">Clicks: {{link.clicks}}</p>
+            <p class="rounded-full bg-blue-200 px-6 py-2">{{link.email}}</p>
+            <p class="rounded-full bg-red-200 px-6 py-2">Clicks: {{link.clicks}}</p>
         </div>
         <div class="flex justify-between items-center">
             <p><a class="underline text-blue-700" href="{{link.url}}">{{link.url}}</a></p>
-            <p class="underline underline text-blue-700"><a target="_blank" href="{% url "root-link" link.slug %}">Open /{{link.slug}} →</a></p>
+            <p class="underline underline text-blue-700"><a target="_blank" href="{% url "root-link" link.slug %}">Open : {{link.slug}} →</a></p>
         </div>
     </div>
-    {% endfor %}
+    {% endfor %}        
 </div>
 {% endblock content %}
